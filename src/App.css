@@ -212,7 +212,7 @@ hr {
   position: absolute;
   content: "";
   bottom: -15%;
-  left: 0;
+  left: 50%;
   width: 0;
   height: 1.2px;
   background: white;
@@ -221,7 +221,7 @@ hr {
 
 .nav_line:hover::after {
   width: 100%;
-  right: 0;
+  left: 0;
 }
 
 .bg-features {

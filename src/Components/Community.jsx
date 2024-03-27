@@ -39,13 +39,13 @@ function Community() {
                                         able to hold, transfer, or stake your
                                         AZERO coins.</p>
                                 </div>
-                                <button className='azero-btn d-flex gap-13  align-items-center position-absolute azero-btn-pos'><span><svg className='btn-svg' width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <button className='azero-btn d-flex gap-13  align-items-center position-absolute azero-btn-pos'><svg className='btn-svg' width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M10.3482 0.798513H16.0964C16.3153 0.798513 16.4952 0.868898 16.636 1.00967C16.7768 1.15044 16.8471 1.33032 16.8471 1.54929V7.29745H15.3456V3.35586L8.09587 10.6056L7.04008 9.54979L14.2898 2.30007H10.3482V0.798513ZM0.329987 2.53469C0.329987 2.33136 0.404283 2.15539 0.552874 2.0068C0.701466 1.85821 0.87743 1.78391 1.08077 1.78391H7.83779V3.28547H1.83155V15.8141H14.3602V9.80787H15.8617V16.5649C15.8617 16.7682 15.7875 16.9442 15.6389 17.0928C15.4903 17.2414 15.3143 17.3157 15.111 17.3157H1.08077C0.87743 17.3157 0.701466 17.2414 0.552874 17.0928C0.404283 16.9442 0.329987 16.7682 0.329987 16.5649V2.53469Z" fill="#00CCAB" />
                                 </svg>
                                     <svg className='btn-svg2' width="20" height="13" viewBox="0 0 20 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M14.5711 1.01284L14.0549 0.473213L12.9757 1.55246L17.2457 5.79906H0.282776V7.30062H17.2457L12.9757 11.5472L14.0549 12.6265L19.5919 7.08946C19.7327 6.93305 19.8031 6.75318 19.8031 6.54984C19.8031 6.3465 19.7327 6.16663 19.5919 6.01022L14.5711 1.01284Z" fill="#00CCAB" />
                                     </svg>
-                                </span><span className=' font-inter fw-500 text-16 lh-16 lts-64 color-green'>Go to</span></button>
+                                    <span className=' font-inter fw-500 text-16 lh-16 lts-64 color-green'>Go to</span></button>
                             </div>
                             <div className="azero-box position-relative overflow-hidden">
                                 <img src={azer2} alt="azer2 " />
@@ -58,13 +58,13 @@ function Community() {
                                         Zero explorer launched in
                                         collaboration with Subscan.</p>
                                 </div>
-                                <button className='azero-btn d-flex gap-13  align-items-center position-absolute azero-btn-pos'><span><svg className='btn-svg' width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <button className='azero-btn d-flex gap-13  align-items-center position-absolute azero-btn-pos'><svg className='btn-svg' width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M10.3482 0.798513H16.0964C16.3153 0.798513 16.4952 0.868898 16.636 1.00967C16.7768 1.15044 16.8471 1.33032 16.8471 1.54929V7.29745H15.3456V3.35586L8.09587 10.6056L7.04008 9.54979L14.2898 2.30007H10.3482V0.798513ZM0.329987 2.53469C0.329987 2.33136 0.404283 2.15539 0.552874 2.0068C0.701466 1.85821 0.87743 1.78391 1.08077 1.78391H7.83779V3.28547H1.83155V15.8141H14.3602V9.80787H15.8617V16.5649C15.8617 16.7682 15.7875 16.9442 15.6389 17.0928C15.4903 17.2414 15.3143 17.3157 15.111 17.3157H1.08077C0.87743 17.3157 0.701466 17.2414 0.552874 17.0928C0.404283 16.9442 0.329987 16.7682 0.329987 16.5649V2.53469Z" fill="#00CCAB" />
                                 </svg>
                                     <svg className='btn-svg2' width="20" height="13" viewBox="0 0 20 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M14.5711 1.01284L14.0549 0.473213L12.9757 1.55246L17.2457 5.79906H0.282776V7.30062H17.2457L12.9757 11.5472L14.0549 12.6265L19.5919 7.08946C19.7327 6.93305 19.8031 6.75318 19.8031 6.54984C19.8031 6.3465 19.7327 6.16663 19.5919 6.01022L14.5711 1.01284Z" fill="#00CCAB" />
                                     </svg>
-                                </span><span className=' font-inter fw-500 text-16 lh-16 lts-64 color-green'>Go to</span></button>
+                                    <span className=' font-inter fw-500 text-16 lh-16 lts-64 color-green'>Go to</span></button>
                             </div>
                             <div className="azero-box position-relative overflow-hidden">
                                 <img src={azer3} alt="azer" />
@@ -77,13 +77,13 @@ function Community() {
                                         economics behind AZERO - Aleph
                                         Zero's native coin.</p>
                                 </div>
-                                <button className='azero-btn d-flex gap-13  align-items-center position-absolute azero-btn-pos'><span><svg className='btn-svg' width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <button className='azero-btn d-flex gap-13  align-items-center position-absolute azero-btn-pos'><svg className='btn-svg' width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M10.3482 0.798513H16.0964C16.3153 0.798513 16.4952 0.868898 16.636 1.00967C16.7768 1.15044 16.8471 1.33032 16.8471 1.54929V7.29745H15.3456V3.35586L8.09587 10.6056L7.04008 9.54979L14.2898 2.30007H10.3482V0.798513ZM0.329987 2.53469C0.329987 2.33136 0.404283 2.15539 0.552874 2.0068C0.701466 1.85821 0.87743 1.78391 1.08077 1.78391H7.83779V3.28547H1.83155V15.8141H14.3602V9.80787H15.8617V16.5649C15.8617 16.7682 15.7875 16.9442 15.6389 17.0928C15.4903 17.2414 15.3143 17.3157 15.111 17.3157H1.08077C0.87743 17.3157 0.701466 17.2414 0.552874 17.0928C0.404283 16.9442 0.329987 16.7682 0.329987 16.5649V2.53469Z" fill="#00CCAB" />
                                 </svg>
                                     <svg className='btn-svg2' width="20" height="13" viewBox="0 0 20 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M14.5711 1.01284L14.0549 0.473213L12.9757 1.55246L17.2457 5.79906H0.282776V7.30062H17.2457L12.9757 11.5472L14.0549 12.6265L19.5919 7.08946C19.7327 6.93305 19.8031 6.75318 19.8031 6.54984C19.8031 6.3465 19.7327 6.16663 19.5919 6.01022L14.5711 1.01284Z" fill="#00CCAB" />
                                     </svg>
-                                </span><span className=' font-inter fw-500 text-16 lh-16 lts-64 color-green'>Go to</span></button>
+                                    <span className=' font-inter fw-500 text-16 lh-16 lts-64 color-green'>Go to</span></button>
                             </div>
                         </div>
                     </div>
